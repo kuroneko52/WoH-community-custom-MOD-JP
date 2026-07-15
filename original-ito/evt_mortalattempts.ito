@@ -1,0 +1,37 @@
+[event]
+name="Mortal Attempts"
+location="ithotu"
+author="rungle"
+contact="@Rungle"
+flavor="Walking to your destination you happened to see a team of firefighters trying to stop a fire inside of an alcohol store, the products inside possibly made the fire worse, one of the firefighters near the firetruck yelling into a walkie-talkie visibly panicked."
+options="3"
+ 
+image="example art\exampleart_villagecars.png"
+about="You encounter a store that has been set ablaze."
+ 
+optiona="Stare into#the flames"
+testa="perception"
+successa="You were able to make something out between the smoke and flames, a cultist sigil made out of several small sticks held together by string before you can look into it further a firefighter goes inside with a firehose and starts spraying it everywhere stopping the fire partly, but ruining the sigil."
+winprizea="experience"
+winnumbera="10"
+failurea="You try your hardest to make something out of the flames inside the store but don't see anything, suddenly a burst of smoke comes out of the building engulfing you in the black thick smoke."
+failprizea="stamina"
+failnumbera="-2"
+ 
+optionb="Ask the panicked#firefighter what happened"
+testb="charm"
+successb="'I have no idea at all, these fires are fierce even if their alcohol-fueled this is absolutely insane!' The firefighter gets a call on his walkie-talkie again and forgets about you, could this be the work of one of the cultists?''
+winprizeb="doom"
+winnumberb="-2"
+failureb="'Get the hell away civie, I have no time of your stupid questions!' he pushes you away from the firetruck leaving you with a lot of scenario's in your head what could have happened here...'"
+failprizeb="reason"
+failnumberb="-2"
+ 
+optionc="Leave the#firefighters"
+testc="story"
+successc="Not wanting to bother the firefighters you leave them alone..."
+winprizec="doom"
+winnumberc="3"
+failurec=""
+failprizec="stamina"
+failnumberc="-1"

@@ -1,0 +1,20 @@
+[event]
+name="PILLS AND BOTTLES"
+location="hospital"
+author="panstasz"
+contact="@panstasz"
+flavor="You've managed to sneak inside the now-closed pharmacy. Boxes of medicine and chemicals surround you in this cramped room. The pill bottle you were looking for is almost out of reach..."
+options="1"
+big="1"
+
+optiona="reach and grab it"
+testa="dexterity"
+successa="You grab the bottle and flee from the pharmacy. This will definitely help in your investigation."
+winprizea="stamina"
+winnumbera="2"
+failurea="You knock over a bottle of ammonia. Covered in chemical burns, you flee from the pharmacy before anyone arrives."
+failprizea="stamina"
+failnumbera="-2"
+
+image="example art/example_bigart.png"
+about="Example of a full-art event."

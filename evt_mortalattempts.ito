@@ -1,0 +1,37 @@
+[event]
+name="死への試み"
+location="ithotu"
+author="rungle"
+contact="@Rungle"
+flavor="目的地へ向かう途中、リカーストア内部で火災を消し止めようとしている消防隊の姿を偶然見かける。店内の商品が火をさらに激化させているようだ。消防車のそばでは、消防士のひとりがトランシーバーに向かって叫んでいる、明らかにパニックに陥っていた。"
+options="3"
+ 
+image="example art\exampleart_villagecars.png"
+about="炎上している店に出くわす"
+ 
+optiona="炎をじっと#見つめる"
+testa="perception"
+successa="炎と煙の合間から、何かがぼんやりと見えた。それは、数本の小さな棒を束ねて作られたカルトの印だった。もっと詳しく見ようとしたその時、消防士がホースを持って店内に突入し、あちこちに勢いよく放水を始めた。日は部分的に鎮火したが、その印は跡形もなく壊れてしまった。"
+winprizea="experience"
+winnumbera="10"
+failurea="店内の炎の中から何かを見つけようと必死に目を凝らすが、何も見えない。すると突然、建物から黒く濃い煙が噴き出し、あなたはその煙に包まれてしまう"
+failprizea="stamina"
+failnumbera="-2"
+ 
+optionb="パニックに陥った消防士に#何が起きたのか尋ねる"
+testb="charm"
+successb="「まったくさっぱり見当もつかないよ、アルコールが燃えてるにしても、この火の勢いはまさに異常だ！」 消防士は再び、トランシーバーで連絡を受け、あなたのことを忘れてしまった。 「もしかして・・・これはカルトの仕業なのか？」'
+winprizeb="doom"
+winnumberb="-2"
+failureb="「民間人はとっとと離れて！馬鹿げた質問に答えてる暇はないんだ！」 そういうと彼はあなたを消防車から押し退かす、「この店で一体何が起きたのか・・・」#いくつものシナリオが頭の中を駆け巡る。"
+failprizeb="reason"
+failnumberb="-2"
+ 
+optionc="消防士たちを#放っておく"
+testc="story"
+successc="消防士たちの邪魔になりたくないあなたは、その場を離れる・・・"
+winprizec="doom"
+winnumberc="3"
+failurec=""
+failprizec="stamina"
+failnumberc="-1"

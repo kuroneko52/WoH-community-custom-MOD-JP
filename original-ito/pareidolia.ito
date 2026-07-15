@@ -1,0 +1,28 @@
+[event]
+name="Pareidolia"
+location="apartment"
+author="Lastdancer"
+contact="@Lastdancer"
+flavor="The events you've witnessed lately have you tossing and turning, unable to sleep.##You feel restless."
+options="2"
+
+image="awake_in_bed.png"
+about="Insomnia strikes; will fear take over?"
+
+optiona="Try lying on your back"
+testa="perception"
+successa="As you stare ahead, your mind starts to fill in the gaps created by the ceiling patterns with shapes of otherworldly entities.##'Wait, is that...?## 'Could it be?!'"
+winprizea="reason"
+winnumbera="-1"
+failurea="Staring at the ceiling proves itself as a source of sufficient boredom, and swiftly renders you asleep."
+failprizea="reason"
+failnumbera="2"
+
+optionb="Listen to some music"
+testb="luck"
+successb="You finally nod off after finding a soothing choice in song."
+winprizeb="doom"
+winnumberb="-3"
+failureb="Finding an appropriate track proves to be more hassle than it was worth.#You end up losing daylight after struggling for hours."
+failprizeb="doom"
+failnumberb="2"

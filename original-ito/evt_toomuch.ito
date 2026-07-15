@@ -1,0 +1,25 @@
+[event]
+name="TOO MUCH"
+location="global"
+author="kharduhn"
+contact="@kharduhn"
+flavor="You don't know exactly what happened. If it was you. What you have done. What you have seen. The only thing you know is that something inside you creaks. #And it has begun to break.'"
+options="2"
+
+image="example art\exampleart_seasidenight.png"
+about="You had enough. It's been too much."
+
+optiona="move on"
+testa="charisma"
+successa="Through the ordeal, you still manage to find new strenght. #Clench your teeth. Look forward. There's still much to be done.#(+20 EXPERIENCE)"
+winprizea="experience"
+winnumbera="20"
+failurea="You can feel it. Your nerves snapping. Your gaze changing. You'll never be the same.#(+CURSE)"
+failprizea="CURSE"
+failnumbera=""
+
+optionb="let it flow"
+testb="story"
+failureb="Time has surely passed, but you can't tell how much. You stop sobbing, you wipe the tears in your face, and you loose your clenched fists. #Onwards.#(+2% DOOM)"
+failprizeb="doom"
+failnumberb="2"

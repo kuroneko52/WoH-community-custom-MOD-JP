@@ -1,0 +1,19 @@
+[event]
+name="AQUARIUM"
+location="mansion"
+author="panstasz"
+contact="@panstasz"
+flavor="In one of the rooms, you discover a giant, slime-coated aquarium. Its water is cloudy, but you can swear something is swimming in it."
+options="1"
+
+optiona="take a closer look"
+testa="perception"
+successa="The fish seem to be unaffected by the weird water, lazily swimming around. You feel like you shouldn't stay here for too long and retreat slowly."
+winprizea="experience"
+winnumbera="6"
+failurea="Something is wrong with this aquarium. The fish are deformed, some having two tails, extra fins, or... human faces."
+failprizea="reason"
+failnumbera="-2"
+
+image=""
+about="Example of an event with 1 option with generic art."

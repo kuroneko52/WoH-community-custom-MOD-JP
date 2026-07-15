@@ -1,0 +1,28 @@
+[event]
+name="八尺様"
+location="village"
+author="RacWade"
+contact="@RacWade"
+flavor="大きな生垣が並ぶ横を通りかかると、白いドレスに広いつばの帽子を被った女が、生垣の上から身を乗り出してあなたに声をかけてくる。 #「すみません・・・町への道ってご存じ？」##彼女の笑みには、どこか不気味なものを感じる・・・"
+options="2"
+
+image="example art/woman_in_white.png"
+about="見知らぬ女が道を尋ねてくる"
+
+optiona="道を教える"
+testa="story"
+successa="あなたは道を教え、彼女から逃れるように急いでその場を去る。##かなり離れたところで、彼女の奇妙な笑い声が耳に残っていることに気づき、あの生垣をはるかに超えるほどの、彼女は一体どれほど背が高かったのだろうと、ふと疑問に思う。"
+winprizea="reason"
+winnumbera="-1"
+failurea=""
+failprizea="stamina"
+failnumbera="-1"
+
+optionb="嘘をつく"
+testb="charisma"
+successb="あなたは彼女が何時間も迷いそうな、もっともらしい道を教える。##女が礼を言って立ち去るのを見送りながら、あなたは自分が今どんな災厄を回避したのかを考えてしまう。"
+winprizeb="reason"
+winnumberb="1"
+failureb="でたらめな道順をでっちあげようとするが、乾いたのどがそのたくらみをあらわにしてしまう。#女はただ、意味ありげにほほ笑む#「おかしな人・・・あなた、ちょっと見張っておかないとね。 ぽ ぽ ぽ」##その言葉の響きが、どうも気に入らない・・・"
+failprizeb="curse"
+failnumberb=""

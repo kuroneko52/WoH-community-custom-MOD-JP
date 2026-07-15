@@ -1,0 +1,28 @@
+[event]
+name="STRANGE TAPE"
+location="downtown"
+author="astrid"
+contact="@evildeadtrap"
+flavor="The video store clerk insists you take a look at this weird tape he got. He won't take no for an answer.#It's hazy ... but you can make out a woman bound by ropes and suspended in midair. She's surrounded by hooded figures.#...are they _cutting_ her??"
+options="2"
+ 
+image=""
+about="You watch a strange videotape."
+ 
+optiona="leave the store"
+testa="story"
+successa="Whatever else is on that tape, you really aren't interested."
+winprizea="reason"
+winnumbera="1"
+failurea=""
+failprizea="doom"
+failnumbera="3"
+ 
+optionb="watch the tape"
+testb="perception"
+successb="It's difficult to sit through, but you try to focus. Eventually you recognize the symbol they're carving into her stomach. The cult must have wanted you to see this tape!"
+winprizeb="doom"
+winnumberb="-5"
+failureb="You force yourself to watch. It's nasty, but it doesn't add up to anything useful. Sure looked real though..."
+failprizeb="reason"
+failnumberb="-1"

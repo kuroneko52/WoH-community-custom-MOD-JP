@@ -1,0 +1,30 @@
+[event]
+name="AGGRESSIVE PASSERBY"
+location="apartment"
+author="Canti"
+contact="@Canti#2118"
+flavor="As you inspect a marking on a wall, a random man shouts at you, hurling insults at you and requesting a fight.#He appears to be delirious, probably under the effects of some kind of drug."
+options="2"
+big="0"
+
+image=""
+about="Someone's out of his mind. Calm him down."
+
+optiona="Ask him to move out of the way"
+testa="charisma"
+successa="Despite his altered state, the man hears you out as you calmly explain you just want to pass through and takes a step to the side, althrough reluctantly."
+winprizea="doom"
+winnumbera="-2"
+failurea="The man refuses to listen to you talk and throws a few sloppy punches.#While the first one takes you by surprise, you avoid the others and shove him out of the way while he's off-balance."
+failprizea="stamina"
+failnumbera="-1"
+
+optionb="Intimidate him"
+testb="strength"
+successb="Looking to scare him away, you put on your most gravelous tone and flex your muscles.#He scurries away almost immediately, accidentally dropping his wallet.#It contains nothing but some coins.. might as well take it."
+winprizeb="funds"
+winnumberb="1"
+failb="As you attempt to show off, he throws a punch that's much better placed than what you expect...#and you take it full force!#You recoil from the blow and decide to head somewhere else."
+failprizeb="injury"
+failnumberb=""
+

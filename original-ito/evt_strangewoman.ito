@@ -1,0 +1,37 @@
+[event]
+name="Strange Woman"
+location="forest"
+author="Externica"
+contact="@Externica#7717"
+flavor="Wandering through the forest, you encounter a woman stading under the tree. She looks at you and smiles. #'What's on your mind, dear?' she asks, as if she knew you."
+options="3"
+
+image="example art\exampleart_ladyinwhite.png"
+about="You meet a woman in the woods."
+
+optiona="tell that#everything is fine"
+testa="charisma"
+successa="'That's good." she replies warmly and walks away. #You, too, are on your way again."
+winprizea="experience"
+winnumbera="5"
+failurea="Cracks appear on her face, as if something smashed it with brute force. #'Don't lie to me" she roars like a wild beast. #Terrified, you run away from the scene as fast as you can."
+failprizea="reason"
+failnumbera="-2"
+
+optionb="tell what's#troubling you"
+testb="charisma"
+successb="'Then you need this more than I do.' she says as she reaches into her pocket, throwing something towards you. #You catch the item, realizing it's a set of candles. As you are about to thank her, you notice she's already gone.
+winprizeb="item"
+winnumberb="HOLY CANDLE"
+failureb="'I know. Watching your struggle is indeed fascinating.' the womans replies oddly calm, her face vibrating, chracking and her smile turning into a malevolent grin. #You back away in shock, realizing this woman isn't human."
+failprizeb="doom"
+failnumberb="3"
+
+optionc="tell that you are#lost in the woods"
+testc="story"
+successc="Gracefully, the woman points to her left.# 'The village is over there' she replies friendly.# You thank her as your ways part."
+winprizec="reason"
+winnumberc="1"
+failurec=""
+failprizec="doom"
+failnumberc="1"

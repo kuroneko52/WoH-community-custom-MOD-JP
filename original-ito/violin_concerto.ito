@@ -1,0 +1,28 @@
+[event]
+name="VIOLIN CONCERTO"
+location="school"
+author="Uverlink"
+contact="@Uverlink"
+flavor="The music hall where student compete to go to the nationals is abnormally full today.##A young violinist is giving a staggering perfomance in the front of a committee and an amazed crowd.##Is it your friend on stage?"
+options="2"
+
+image="other art\violin_concerto.png"
+about="The sound of the violin."
+
+optiona="appreciate the show"
+testa="perception"
+successa="You sit down to appreciate the performance, its warmth give you the strength to go forward.##Once the performance finishes, your friend waves at you. She seems happy to see you around."
+winprizea="reason"
+winnumbera="2"
+failurea="Moving forward, you notice that everyone around you is livid. Looking left and right, the crowd seems to simply vanish.##There is no one here, this wing was closed off long ago. You realize that you broke in the concert hall and bruised your arms."
+failprizea="stamina"
+failnumbera="-1"
+
+optionb="resist the enticing music"
+testb="story"
+successb="You walk away as the music dies down in the distance.##You cannot shake off the feeling that there is something missing."
+winprizeb="doom"
+winnumberb="4"
+failureb=""
+failprizeb="experience"
+failnumberb="5"

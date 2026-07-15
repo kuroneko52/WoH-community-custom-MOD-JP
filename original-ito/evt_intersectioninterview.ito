@@ -1,0 +1,28 @@
+[event]
+name="INTERSECTION INTERVIEW"
+location="downtown"
+author="Haspen"
+contact="@Haspen"
+flavor="'Hello, this is Hanae Kitamura of EdoTV!' You jump a little when the young reporter girl suddenly appears at your side along with a cameraman. #'We're doing a report on strange things occuring in Shiokawa in the recent days! Do you know anything about that?'"
+options="2"
+
+image="example art\exampleart_villagecars.png"
+about="You encounter a young TV reporter."
+
+optiona="You bet I do!"
+testa="charisma"
+successa="You detail the most recent story you've heard, and both Hanae and the cameraman's faces pale as the story goes on. #After you finish, Hanae gulps in fear. 'Man, I thought it was just silly urban tale.' #She shudders. 'But if all you've said is true, the more people know about it, the better!'"
+winprizea="doom"
+winnumbera="-6"
+failurea="You try to sound as convincing as possible, but after a moment, Hanae cuts the interview short. #'Man, this is such crap. You think people would believe this?' #Hanae and her co-worker leave you at the intersection, unsure of what to think."
+failprizea="reason"
+failnumbera="-1"
+
+optionb="Apologies, I don't #have time for this"
+testb="story"
+successb="'No problem, man. See ya!' Hanae and her cameraman go on to accost some other passerby, while you continue on your way."
+winprizeb="stamina"
+winnumberb="0"
+failureb=""
+failprizeb="stamina"
+failnumberb="-1"

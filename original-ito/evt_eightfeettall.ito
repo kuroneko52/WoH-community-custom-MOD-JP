@@ -1,0 +1,28 @@
+[event]
+name="EIGHT FEET TALL"
+location="village"
+author="RacWade"
+contact="@RacWade"
+flavor="As you pass by a row of large hedges, a woman in a white dress and a broad-brimmed hat leans over one, and addresses you. #'Excuse me... do you know the way into town?'##Something about her smile bothers you..."
+options="2"
+
+image="example art/woman_in_white.png"
+about="A strange woman asks for directions."
+
+optiona="give her directions"
+testa="story"
+successa="You give her directions, and leave hurriedly, hoping to be rid of her.##It's only after you're well away, her strange laughter ringing in your ears, that you begin to wonder how tall she must have really been to tower over those hedges."
+winprizea="reason"
+winnumbera="-1"
+failurea=""
+failprizea="stamina"
+failnumbera="-1"
+
+optionb="lie"
+testb="charisma"
+successb="You give her some plausible directions that will keep her busy for hours.##As the woman thanks you and departs, you wonder what disaster you may have just averted."
+winprizeb="reason"
+winnumberb="1"
+failureb="You attempt to make up some false directions, but your parched throat gives away your intent.#The woman just smiles knowingly.#'What a funny person... I'll have to keep my eye on you. Po po po.'##You don't like the sound of that..."
+failprizeb="curse"
+failnumberb=""

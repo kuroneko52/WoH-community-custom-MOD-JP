@@ -1,0 +1,16 @@
+name - event's displayed name (string)
+author - visible in the "by <author>" section (string)
+contanct - not visible, please leave contact to yourself in case I would like to integrate your custom event in the main game (string)
+about - tiny text explaining the event, seen in the main menu when you hover over it (string, keep it short)
+flavor - the initial text describing the event (string, it auto-wraps but add # for a new line)
+location - which deck does the event appear in (string, use these: downtown, school, hospital, seaside, forest, mansion, village, apartment, ithotu, athyola, gozu, atorasu)
+options - how many options are available for the player (string, "1", "2" or "3")
+(optional) big - if set to "1" will instead draw the image in the upper left corner of the image, allowing for full-art events. Full-art template present in the example art folder. (string, "1" or "0")
+image = path to the image file (string, relative (check included events for examples), leave "" for a generic location-based image)
+
+
+optiona/optionb/optionc - self-explanatory (string, remember about # as button's width is limited the more options you have)
+testa/testb/testc - which stat will be checked if player selects this option (string, use these: strength, dexterity, perception, knowledge, charisma, luck or story for no test and auto-success. You can also use funds1 and funds2, these will check if player has at least 1/2 FUNDS and will auto-deduct them if the check passes)
+successa/failurea/etc - text result of an option (string, # for a new line, result line (-x something) gets added automatically)
+winprizea/failprizea/etc - result of an option (string, currently: stamina, reason, doom, experience, funds, injury, curse, ally, item)
+winnumbera/failnumbera/etc - the number you want to increase or decrease the above (string,  leave "" for injury, curse and ally (random effect), ITEM NAME for item (for example "STEAK KNIFE", misspelling the item's name won't crash the game but will eat up an inventory slot with item you can't do anything with)
