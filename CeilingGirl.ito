@@ -3,10 +3,13 @@ name="天井の少女"
 author="Grug"
 contact="Discord Grug#3148."
 location="hospital"
+
 flavor="患者服を着た薄汚れた少女が天井を歩いてこちらに向かってくる。 #「どうしてみんな逆さまに立っているの？ こっちの方がずっといいのに。おいでよ！」##あなたの体が浮かび始める。"
 options= "2"
+
 image="example art/exampleart_hospitalcorridora.png"
 about="天井の少女"
+
 
 optiona="上を下にして立つ？"
 testa="dexterity"
@@ -18,6 +21,7 @@ winnumbera="10"
 failurea="あなたは少女の視点に合わせて体をひねる。##強烈なめまいが押し寄せ、空虚な部屋の中で方向感覚を失う。##一体、どちらが本当の上なのだろう？"
 failprizea="reason"
 failnumbera="-2"
+
 
 optionb="下を上にして立つ？"
 testb="dexterity"
