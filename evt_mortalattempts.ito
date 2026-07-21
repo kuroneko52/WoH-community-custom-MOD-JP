@@ -6,7 +6,7 @@ contact="@Rungle"
 flavor="目的地へ向かう途中、#リカーストア内部で火災を消し止めようとしている消防隊の姿を偶然見かける。##店内の商品が火をさらに激化させているようだ。##消防車のそばでは、消防士のひとりがトランシーバーに向かって叫んでいる。##明らかにパニックに陥っていた。"
 options="3"
  
-image="example art\exampleart_villagecars.png"
+image="example art/exampleart_villagecars.png"
 about="炎上している店に出くわす"
  
 optiona="炎をじっと#見つめる"
