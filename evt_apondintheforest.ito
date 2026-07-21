@@ -5,7 +5,7 @@ author="nothingxs"
 contact="@nothingxs"
 options="2"
 
-image="example art\exampleart_trees.png"
+image="example art/exampleart_trees.png"
 about="森の中にある、どこか異様な池、探索されるのを待っているようだ。"
 
 flavor="森の単調な風景を打ち破るかのように、#木々の隙間に小さな池がぽつんと現れる。##そこには生命があふれており、#池のふちには蓮の葉がいくつか浮かび、#水の下から長い草が顔をのぞかせている。##しかし、池の中央からはゆっくりだが、#絶え間ない泡が水面に浮かび上がっていることに気づく・・・"

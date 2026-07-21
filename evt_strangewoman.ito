@@ -6,7 +6,7 @@ contact="@Externica#7717"
 flavor="森をさまよっていると、#木の下に立つ女子と遭遇する。##彼女はあなたを見てほほ笑む。##「どうしたの？君は」##まるであなたのことを知っているかのように、#彼女は尋ねてくる。"
 options="3"
 
-image="example art\exampleart_ladyinwhite.png"
+image="example art/exampleart_ladyinwhite.png"
 about="森の中で女と会う"
 
 optiona="なんでもないよ#と答える"

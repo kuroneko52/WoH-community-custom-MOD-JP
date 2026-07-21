@@ -6,7 +6,7 @@ contact="@Uverlink"
 flavor="公共図書館の資料室で古い新聞を探していると、#間違えて小さな事務室のドアを開けてしまう。##部屋は暗く、机にうつぶせに座っている女の子が一人。##だが、彼女のパソコンの画面が動いたのは間違いない。"
 options="3"
 
-image="other art\public_computer_sleep.png"
+image="other art/public_computer_sleep.png"
 about="ここで誰か寝てる？"
 
 optiona="彼女を起こしてみる"

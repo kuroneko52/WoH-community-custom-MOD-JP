@@ -6,7 +6,7 @@ contact="@Haspen"
 flavor="「こんにちは、江戸テレビの北村ハナエです！」# 若い女性リポーターがカメラマンを連れて突然そばに現れ、#あなたは思わず身をすくめる。##「ここ数日、塩川で起きている奇妙な出来事について取材しているんです！#  何かご存じありませんか？」"
 options="2"
 
-image="example art\exampleart_villagecars.png"
+image="example art/exampleart_villagecars.png"
 about="若いTVリポーターに出くわす"
 
 optiona="もちろん知ってるよ！"

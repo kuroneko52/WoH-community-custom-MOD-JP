@@ -6,7 +6,7 @@ contact="@Uverlink"
 flavor="全国大会を目指して生徒たちが競い合う音楽ホールは、#今日は異様なほど人で埋め尽くされている。##若いヴァイオリニストが思わず息をのむような演奏を披露している。##ステージ上にいる彼女は、あなたの友人だろうか？"
 options="2"
 
-image="other art\violin_concerto.png"
+image="other art/violin_concerto.png"
 about="ヴァイオリンの音"
 
 optiona="演奏を楽しむ"
