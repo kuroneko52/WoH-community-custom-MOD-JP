@@ -3,35 +3,33 @@ name="老老婆"
 location="village"
 author="Haspen"
 contact="@Haspen"
+
 flavor="村を歩いていると、あなたをじっと見つめる、#とても、とても年老いた老婆が目に入る##好奇心に駆られてあなたは彼女に近づく##「こんにちは、お嬢ちゃん」##彼女はとても嬉しそうにかすれた声で言う##「ちょうど家に帰るところなんだけどね、一緒にセカンド・ブレイクファーストでもどうだい？それとも、お茶がいいかい？」"
 options="3"
 
 image=""
 about="老婆と出会う"
 
+
 optiona="セカンド・ブレイクファースト#いいですね"
 testa="story"
+
 successa="老婆の家で、ラーメン、焼き魚、お餅をふるまわれる。##質素ながら美味しい手づくりの料理は、#あなたの活力を取り戻してくれる。"
 winprizea="stamina"
 winnumbera="1"
-failurea=""
-failprizea="reason"
-failnumbera="-1"
+
 
 optionb="お茶？大好きです！"
 testb="story"
+
 successb="老婆の家で、熱いお茶をふるまわれる。##二人で湯気の立つお茶をすすりながら、彼女は地元の民話を語り始め、#意外にもそこから調査に役立つ情報を得ることが出来る。"
 winprizeb="experience"
 winnumberb="4"
-failureb=""
-failprizeb="stamina"
-failnumberb="-1"
+
 
 optionc="大丈夫です、もう行かないと"
 testc="story"
+
 successc="あなたは誘いを断り、急いでその場を離れる。##彼女はいったい誰だったのか？#何を望んでいたのか？考えすぎだろうか？##わからない。##もしかすると、知りたくないのかもしれない・・・"
 winprizec="reason"
 winnumberc="-1"
-failurec=""
-failprizec="reason"
-failnumberc="-1"

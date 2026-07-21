@@ -3,17 +3,21 @@ name="アクアリウム"
 location="mansion"
 author="panstasz"
 contact="@panstasz"
+
 flavor="部屋のひとつで、スライムに覆われた巨大な水槽を発見した。##水は濁っているが、何かが泳いでいるのは間違いない。"
 options="1"
 
+image=""
+about="Example of an event with 1 option with generic art."
+
+
 optiona="近づいてよく見てみる"
 testa="perception"
+
 successa="魚たちはこの奇妙な水の影響を受けていないようで、のんびりと泳ぎ回っている。##あまりここに長居すべきではない気がして、#あなたはゆっくりと後退した。"
 winprizea="experience"
 winnumbera="6"
+
 failurea="この水槽は何かがおかしい。##魚たちは奇形化しており、ふたつの尾を持つもの、#余分なヒレを持つもの、#あるいは・・・人間の顔をしたものまでいる。"
 failprizea="reason"
 failnumbera="-2"
-
-image=""
-about="Example of an event with 1 option with generic art."

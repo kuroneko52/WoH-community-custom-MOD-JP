@@ -3,14 +3,17 @@ name="パレイドリア"
 location="apartment"
 author="Lastdancer"
 contact="@Lastdancer"
+
 flavor="最近目撃した出来事の所為で、#寝返りばかりを撃ち続け、眠れないでいる##落ち着かない気分だ。"
 options="2"
 
 image="pareidolia/awake_in_bed.png"
 about="不眠が襲う―恐怖に支配されてしまうのか？"
 
+
 optiona="仰向けになってみる"
 testa="perception"
+
 successa="ただ天井を見つめ続けるという行為は、#飽きと十分な退屈をもたらし、#あっという間に眠りに落ちてしまう。"
 winprizea="reason"
 winnumbera="2"
@@ -19,8 +22,10 @@ failurea="正面を見つめていると、#天井の模様が作り出す隙間
 failprizea="reason"
 failnumbera="-1"
 
+
 optionb="何か音楽を聴く"
 testb="luck"
+
 successb="心地よい曲を見つけ、ようやく眠りにつく。"
 winprizeb="doom"
 winnumberb="-3"

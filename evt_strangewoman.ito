@@ -3,36 +3,41 @@ name="奇妙な女子"
 location="forest"
 author="Externica"
 contact="@Externica#7717"
+
 flavor="森をさまよっていると、#木の下に立つ女子と遭遇する。##彼女はあなたを見てほほ笑む。##「どうしたの？君は」##まるであなたのことを知っているかのように、#彼女は尋ねてくる。"
 options="3"
 
 image="example art/exampleart_ladyinwhite.png"
 about="森の中で女と会う"
 
+
 optiona="なんでもないよ#と答える"
 testa="charisma"
+
 successa="「それはよかったね」##彼女は温かくそう答え、歩き去っていく##あなたもまた、歩き出す。"
 winprizea="experience"
 winnumbera="5"
+
 failurea="彼女の顔にひび割れのようなしわが走る。##「嘘だ！！！！」##彼女は怒れる獣のごとく咆哮した。##恐怖に駆られたあなたは、全速力でその場から逃げ出した。"
 failprizea="reason"
 failnumbera="-2"
 
+
 optionb="気になっている悩みを#打ち明ける"
 testb="charisma"
+
 successb="「なら、これが必要なのは私じゃなくて、君の方だね」##彼女はそう言い、ポケットに手を入れて何かを投げて寄越した。##それをキャッチすると一組のろうそくだと気づく。##お礼を言おうとしたがそのとき、彼女の姿はすでになかった。"
 winprizeb="item"
 winnumberb="HOLY CANDLE"
+
 failureb="「わかってる、君がもがく姿を見るのは、本当に興味深いから」##女子は奇妙なほど落ち着いた声でそう答える。##彼女の顔が震え、ひびのようなしわが入り、#笑顔は悪意に満ちたニヤリとしたものに変わる。##あなたはショックを受けて後ずさりし、#この女子が人間ではないと悟る。"
 failprizeb="doom"
 failnumberb="3"
 
+
 optionc="森で迷った#と答える"
 testc="story"
+
 successc="その女子は優雅なしぐさで左を指さした。##「村はあっちだよ」##彼女が親しげに答える。##あなたはお礼を言い、それぞれの道へと別れた。"
 winprizec="reason"
 winnumberc="1"
-
-failurec=""
-failprizec="doom"
-failnumberc="1"
