@@ -16,7 +16,7 @@ testa="charisma"
 
 successa="「それはよかったね」##彼女は温かくそう答え、歩き去っていく##あなたもまた、歩き出す。"
 winprizea="experience"
-winnumbera="5"
+winnumbera="15"
 
 failurea="彼女の顔にひび割れのようなしわが走る。##「嘘だ！！！！」##彼女は怒れる獣のごとく咆哮した。##恐怖に駆られたあなたは、全速力でその場から逃げ出した。"
 failprizea="reason"

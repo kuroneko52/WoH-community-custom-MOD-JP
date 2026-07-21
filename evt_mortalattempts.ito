@@ -16,7 +16,7 @@ testa="perception"
 
 successa="炎と煙の合間から、何かがぼんやりと見えた。##それは、数本の小さな棒を束ねて作られたカルトの印だった。##もっと詳しく見ようとしたその時、#消防士がホースを持って店内に突入し、あちこちに勢いよく放水を始めた。##火は部分的に鎮火したが、#その印は跡形もなく壊れてしまった。"
 winprizea="experience"
-winnumbera="10"
+winnumbera="12"
 
 failurea="店内の炎の中から何かを見つけようと必死に目を凝らすが、#何も見えない。##すると突然、建物から黒く濃い煙が噴き出し、#あなたはその煙に包まれてしまう"
 failprizea="stamina"
@@ -28,11 +28,11 @@ testb="charm"
 
 successb="「まったくさっぱり見当もつかないよ、アルコールが燃えてるにしても、この火の勢いはまさに異常だ！」##消防士は再び、トランシーバーで連絡を受け、あなたのことを忘れてしまった。 ##<<もしかして・・・これはカルトの仕業なのか？>>'
 winprizeb="doom"
-winnumberb="-2"
+winnumberb="-6"
 
 failureb="「民間人はとっとと離れて！馬鹿げた質問に答えてる暇はないんだ！」##そういうと彼はあなたを消防車から押しどかす。##<<この店で一体何が起きたのか・・・>>##いくつものシナリオが頭の中を駆け巡る。"
 failprizeb="reason"
-failnumberb="-2"
+failnumberb="-1"
 
 
 optionc="消防士たちを#放っておく"
@@ -40,8 +40,4 @@ testc="story"
 
 successc="消防士たちの邪魔になりたくない。##あなたはその場を離れた・・・"
 winprizec="doom"
-winnumberc="3"
-
-failurec=""
-failprizec=""
-failnumberc=""
+winnumberc="-3"
