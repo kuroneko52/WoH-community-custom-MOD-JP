@@ -3,25 +3,28 @@ name="エレベーターグラフィティ"
 location="apartment"
 author="panstasz"
 contact="@panstasz"
+
 flavor="誰かがエレベーターのいたるところに#スプレーで落書きをしている。##黒い線は、どんな形にも見えず、#意味をなしていない。##エレベーター自体は正常に動いているようだが、#このグラフィティにはどこか不気味なものを感じる・・・"
 options="2"
 
+image=""
+about="Example of an event with 2 options."
+
 optiona="エレベーターに乗る"
 testa="luck"
+
 successa="目を閉じて、再び開けると、#あなたはもう目的地に到着していた。"
 winprizea="reason"
 winnumbera="1"
+
 failurea="奇妙な線を見つめているうちに、めまいがしてきた。##それは次第に強まり、空間識失調症へと変わる。##床に吐き出す前に、#あなたは這うようにしてエレベーターから逃げ出す。"
 failprizea="stamina"
 failnumbera="-2"
 
+
 optionb="よく考えてみたら思えば#階段を使おう"
 testb="story"
+
 successb="階段を登りながら、#あなたはこの奇妙な落書きの謎について考えつづける。"
 winprizeb="reason"
 winnumberb="-1"
-failureb=""
-failprizeb=""
-failnumberb=""
-image=""
-about="Example of an event with 2 options."

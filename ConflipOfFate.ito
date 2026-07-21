@@ -3,25 +3,33 @@ name="運命のコイントス"
 author="Grug"
 contact="Discord Grug#3148."
 location="mansion"
+
 flavor="大きな朽ちたトランクが、錆びついた鎖に覆われているのを発見する。##近づくと、鎖が音を立てて弾け飛び、象形文字の刻まれた大きな砂岩の円盤が勢いよく飛び出してくる。##どうやら、あなたを探しているようだ。"
 options= "2"
+
 image=""
 about="運命のコイントス"
 
+
 optiona="表が出るよう祈る"
 testa="luck"
+
 successa="轟音とともに、 円盤は表を上に着地した。##あなたは静けさと確信に満たされる。"
 winprizea="experience"
 winnumbera="10"
+
 failurea="轟音とともに、 円盤は裏面を上に着地した。##部屋からすべての光が消え去り、あなたは絶望に苦しむ。"
 failureprizea="doom"
 failurenumbera="3"
 
+
 optionb="裏が出るよう祈る"
 testb="luck"
+
 successb="轟音とともに、 円盤は裏面を上に着地した。##あなたは静けさと確信に満たされる。"
-winprizeb="doom"
-winnumberb="3"
+winprizeb="experience"
+winnumberb="20"
+
 failureb="轟音とともに、 円盤は表を上に着地した。##部屋からすべての光が消え去り、あなたは絶望に苦しむ。"
-failureprizeb="experience"
-failurenumberb="20"
+failureprizeb="doom"
+failurenumberb="3"

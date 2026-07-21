@@ -3,25 +3,20 @@ name="独房"
 location="hospital"
 author="panstasz"
 contact="@panstasz"
+
 flavor="病院の使われていない階を歩いていると、#なにか不穏な光景が目に入った。##小さな空き部屋のドアが、#無理やりこじ開けられたように見える。##錠前は完全に壊れている。##あなたは周囲を確認し、#その部屋をじっくりと観察することにした・・・"
 options="1"
 
+image="example art/art_pillsbottles.png"
+about="Example of an event with 1 option."
+
 optiona="ここで何が起きたのか？"
 testa="knowledge"
+
 successa="誰かがバールかそういった類の道具で、#無理やりドアをこじ開けたようだ。##おそらくカギを失くして、#部屋の中のものを取り出そうとしただけだろう、#そう自分に言い聞かせ、あなたは急いで廊下を後にした。"
 winprizea="experience"
 winnumbera="5"
+
 failurea="錠前や壁の周りに奇妙な痕跡が・・・もしかして、巨大な爪！？##病院のスタッフはこの部屋に#何を閉じ込めていたのだろう・・・！？"
 failprizea="reason"
 failnumbera="-1"
-
-optionb=""
-testb=""
-successb=""
-winprizeb=""
-winnumberb=""
-failureb=""
-failprizeb=""
-failnumberb=""
-image="example art/art_pillsbottles.png"
-about="Example of an event with 1 option."
