@@ -15,7 +15,7 @@ testa="luck"
 
 successa="目を閉じて、再び開けると、#あなたはもう目的地に到着していた。"
 winprizea="reason"
-winnumbera="1"
+winnumbera="2"
 
 failurea="奇妙な線を見つめているうちに、めまいがしてきた。##それは次第に強まり、空間識失調症へと変わる。##床に吐き出す前に、#あなたは這うようにしてエレベーターから逃げ出す。"
 failprizea="stamina"

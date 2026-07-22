@@ -16,7 +16,7 @@ testa="story"
 
 successa="老婆の家で、ラーメン、焼き魚、お餅をふるまわれる。##質素ながら美味しい手づくりの料理は、#あなたの活力を取り戻してくれる。"
 winprizea="stamina"
-winnumbera="1"
+winnumbera="3"
 
 
 optionb="お茶？大好きです！"
@@ -24,7 +24,7 @@ testb="story"
 
 successb="老婆の家で、熱いお茶をふるまわれる。##二人で湯気の立つお茶をすすりながら、彼女は地元の民話を語り始め、#意外にもそこから調査に役立つ情報を得ることが出来る。"
 winprizeb="experience"
-winnumberb="4"
+winnumberb="10"
 
 
 optionc="大丈夫です、もう行かないと"

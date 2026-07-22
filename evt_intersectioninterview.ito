@@ -27,5 +27,5 @@ optionb="ごめんなさい、時間がないの"
 testb="story"
 
 successb="「いいわよ、またね！」##ハナエとカメラマンは別の通行人へ声を掛けに行き、#あなたはそのまま自分の道を進む。"
-winprizeb="stamina"
-winnumberb="0"
+winprizeb="reason"
+winnumberb="1"

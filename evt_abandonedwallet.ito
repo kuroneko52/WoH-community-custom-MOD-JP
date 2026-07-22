@@ -28,7 +28,7 @@ testb="luck"
 
 successb="財布の中には現金がぎっしり入っていた。##あなたは誰にも見られないうちに#お金を抜き取り、その場を離れる。"
 winprizeb="funds"
-winnumberb="3"
+winnumberb="4"
 
 failureb="財布を拾い上げた瞬間、#どういうわけか落ちない汚れがついてしまう。##財布の中身は空っぽだ。"
 failprizeb="curse"
@@ -40,4 +40,4 @@ testc="story"
 
 successc="あなたは迷うことなく財布をおいて立ち去る。##何かすべきだったような気もするが、#もっと重要な用事がある。"
 winprizec="doom"
-winnumberc="-2"
+winnumberc="-5"

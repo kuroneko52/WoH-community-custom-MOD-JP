@@ -28,7 +28,7 @@ testb="luck"
 
 successb="心地よい曲を見つけ、ようやく眠りにつく。"
 winprizeb="doom"
-winnumberb="-3"
+winnumberb="-4"
 
 failureb="ちょうどよい曲を探すのは、#その価値に見合わないほどの手間だった。##何時間ももがいた挙句、気づけば日が暮れていた"
 failprizeb="doom"
